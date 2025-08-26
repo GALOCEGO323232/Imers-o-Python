@@ -1,0 +1,1 @@
+O assert e ele meio q ve se aquilo q a gnt colocou um coisa e ela tem q ser igual aql pq se n ela vai voltar um erro se n for aql, o raise ve se tem um erro e retorna ele, o type e uma class ent a gnt pode fazer uma class atravez dele, o with ele abre e fecha o codigo e tipo a funções q usei na gnl mas melhor
